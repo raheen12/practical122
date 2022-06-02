@@ -1,0 +1,25 @@
+www.khaadi.com
+ca.khaadi.com
+careers.khaadi.com
+corporate.khaadi.com
+emails.khaadi.com
+exsrv.khaadi.com
+hbph.khaadi.com
+home.khaadi.com
+jobs.khaadi.com
+khaadicomestocampus.khaadi.com
+kmc.khaadi.com
+mail.khaadi.com
+mcloud.khaadi.com
+pk.khaadi.com
+pk1.khaadi.com
+staging.khaadi.com
+staging-ca.khaadi.com
+test-ca.khaadi.com
+test-ch2.khaadi.com
+test-pk.khaadi.com
+uae.khaadi.com
+uk.khaadi.com
+us.khaadi.com
+yourhr.khaadi.com
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-06-02 16:52 EDT
